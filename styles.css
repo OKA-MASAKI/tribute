@@ -1,0 +1,10 @@
+body {
+    background-image: url('img/image_123650291\ \(32\).JPG');
+    background-size: cover; /* Cover the entire area */
+    background-position: center; /* Center the image */
+  }
+
+img{
+    max: width 200px;
+    height: 200px;
+}
